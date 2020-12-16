@@ -1,0 +1,54 @@
+{
+  "sources": {
+    "2": {
+      "name": "nyaa.si",
+      "src": "https://nyaa.si/?page=rss&q=%09Attack+on+Titan+%28Shingeki+no+Kyojin%29+The+Final+Season+-+02+%5B&c=0_0&f=0",
+      "source_type": "source_rss",
+      "data": {}
+    },
+    "3": {
+      "name": "abc",
+      "src": "www",
+      "source_type": "source_rss",
+      "data": {}
+    }
+  },
+  "nyaasi": {
+    "1": {
+      "title": "Attack on Titan (Shingeki no Kyojin) The Final Season - 02 [1080p x264 AAC] [Multi-Subs] [JP, EN, ES, PT-BR] [DDL]",
+      "link": "https://nyaa.si/download/1315455.torrent",
+      "pub_date": "Wed, 16 Dec 2020 00:37:36 -0000",
+      "description": "<a href=\"https://nyaa.si/view/1315455\">#1315455 | Attack on Titan (Shingeki no Kyojin) The Final Season - 02 [1080p x264 AAC] [Multi-Subs] [JP, EN, ES, PT-BR] [DDL]</a> | 1.4 GiB | Anime - English-translated | 8384a8362ac6110fe91c5c7e52d00c624c15ba10",
+      "data": {
+        "guid": "https://nyaa.si/view/1315455"
+      }
+    },
+    "2": {
+      "title": "[AnimeRG] Shingeki no Kyojin - The Final Season - 02 (NHK-G 720p HEVC 10bit) (Attack on Titan - 61).mkv",
+      "link": "https://nyaa.si/download/1314793.torrent",
+      "pub_date": "Mon, 14 Dec 2020 05:59:20 -0000",
+      "description": "<a href=\"https://nyaa.si/view/1314793\">#1314793 | [AnimeRG] Shingeki no Kyojin - The Final Season - 02 (NHK-G 720p HEVC 10bit) (Attack on Titan - 61).mkv</a> | 567.4 MiB | Anime - English-translated | d1a6a0c3ce95ac48751f3450bd3594503af3398d",
+      "data": {
+        "guid": "https://nyaa.si/view/1314793"
+      }
+    },
+    "3": {
+      "title": "[EMBER] Shingeki no Kyojin: The Final Season - 02 [S04E02(E61)] [1080p] [HEVC 10 bits WEBRip] (Attack on Titan The Final Season)",
+      "link": "https://nyaa.si/download/1314687.torrent",
+      "pub_date": "Sun, 13 Dec 2020 21:51:04 -0000",
+      "description": "<a href=\"https://nyaa.si/view/1314687\">#1314687 | [EMBER] Shingeki no Kyojin: The Final Season - 02 [S04E02(E61)] [1080p] [HEVC 10 bits WEBRip] (Attack on Titan The Final Season)</a> | 398.7 MiB | Anime - English-translated | 612391d64723896b0869e755276afda8c2ad3bdf",
+      "data": {
+        "guid": "https://nyaa.si/view/1314687"
+      }
+    },
+    "4": {
+      "title": "Attack on Titan (Shingeki no Kyojin) The Final Season - 02 [1080p x264 AAC] [Multi-Subs] [DDL]",
+      "link": "https://nyaa.si/download/1314674.torrent",
+      "pub_date": "Sun, 13 Dec 2020 21:19:53 -0000",
+      "description": "<a href=\"https://nyaa.si/view/1314674\">#1314674 | Attack on Titan (Shingeki no Kyojin) The Final Season - 02 [1080p x264 AAC] [Multi-Subs] [DDL]</a> | 1.4 GiB | Anime - English-translated | 240441b801c7ca3ca7547ce6e76e5a956cf690bb",
+      "data": {
+        "guid": "https://nyaa.si/view/1314674"
+      }
+    }
+  }
+}
